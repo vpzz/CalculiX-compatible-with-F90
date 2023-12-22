@@ -1,8 +1,12 @@
 # build output
 *.[oa]
 ccx_2.20
+
 # callgrind output
 *.png
 *.pdf
 *.expand
 callgrind.out.*
+# vscode files
+.vscode-ctags
+.vscode/
