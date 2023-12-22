@@ -2,11 +2,17 @@
 *.[oa]
 ccx_2.20
 
+#debug output
+input.inp
+input.inpc
+input.ipoinp
+
 # callgrind output
 *.png
 *.pdf
 *.expand
 callgrind.out.*
+
 # vscode files
 .vscode-ctags
 .vscode/
