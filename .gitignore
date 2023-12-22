@@ -6,6 +6,7 @@ ccx_2.20
 input.inp
 input.inpc
 input.ipoinp
+spooles.out
 
 # callgrind output
 *.png
